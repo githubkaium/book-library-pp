@@ -86,4 +86,3 @@ const toggleCountResult = displayStyle => {
 const toggleErrorMessage = displayStyle => {
     document.getElementById('error-message').style.display = displayStyle;
 }
-
